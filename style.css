@@ -8,13 +8,35 @@ header {
   text-align: center;
 }
 
+header p {
+  padding-top: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+}
+
+nav a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.3em;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 h1 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif ;
+  font-size: 2.5em;
 }
 
-#aboutme {
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 2.0em;
+  }
+
+div#aboutme {
+  padding-top: 150px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: medium;
+  font-size: 1.1em;
+  background-color: aquamarine;
 }
