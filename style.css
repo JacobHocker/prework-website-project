@@ -2,6 +2,12 @@ body {
     background: rgb(255, 254, 254);
   } 
 
+header {
+  display: block;
+  background-color: rgb(162, 240, 240);
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif ;
