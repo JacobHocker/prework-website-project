@@ -54,8 +54,9 @@ h2 {
 h3 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
-  font-size: 1.8em;
-  padding-bottom: 40px;
+  font-size: 1.5em;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 div#aboutme {
@@ -83,6 +84,14 @@ div#games {
   background-color: rgb(226, 43, 67);
 }
 
+div#music {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(43, 226, 119);
+}
+
 div#animals div#nala {
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -104,6 +113,20 @@ div#games div#listgames {
   padding-bottom: 50px;
 }
 
+div#music div.instruments {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  padding-bottom: 50px;
+}
+
+div#music div#bands {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  padding-bottom: 50px
+}
+
 #nalasleeping {
   display: block;
   width: 300px;
@@ -115,6 +138,12 @@ div#games div#listgames {
   display: block;
   width: 300px;
   height: 300px;
+  padding-left: 35%;
+  padding-top: 50px;
+}
+
+#concert {
+  display: block;
   padding-left: 35%;
   padding-top: 50px;
 }
