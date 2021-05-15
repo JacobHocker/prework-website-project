@@ -149,3 +149,51 @@ div#music div#bands {
   padding-left: 35%;
   padding-top: 50px;
 }
+
+div#contactme div#emailme a {
+  display: block;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.3em;
+  }
+
+nav.bar a {
+  background-color: rgb(173, 7, 40);
+}
+
+nav.bar a:active {
+  color: white;
+}
+
+nav.bar a:visited {
+  color:yellow;
+}
+
+nav.bar a:hover {
+  color:teal;
+}
+
+nav.bar a:hover {
+  background-color: rgb(26, 11, 238);
+}
+
+div#contactme div#emailme a {
+  background-color: thistle;
+}
+
+div#contactme div#emailme a:hover {
+  background-color: turquoise;
+}
+
+div#contactme div#emailme a:active {
+  color: bisque;
+}
+
+div#contactme div#emailme a:visited {
+  color: blueviolet;
+}
+
+div#contactme div#emailme a:hover {
+  color: blue;
+}
+
