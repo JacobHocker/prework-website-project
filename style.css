@@ -75,6 +75,14 @@ div#animals {
   background-color: blueviolet;
 }
 
+div#games {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(226, 43, 67);
+}
+
 div#animals div#nala {
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
