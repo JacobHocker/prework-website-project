@@ -6,6 +6,7 @@ header {
   display: block;
   background-color: rgb(162, 240, 240);
   text-align: center;
+  padding-bottom: 50px;
 }
 
 header p {
@@ -17,14 +18,22 @@ header p {
 nav a {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.3em;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 h1 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif ;
   font-size: 2.5em;
+}
+
+#truman {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:fit-content;
+  height:fit-content;
 }
 
 h2 {
@@ -34,7 +43,7 @@ h2 {
   }
 
 div#aboutme {
-  padding-top: 150px;
+  padding-top: 75px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.1em;
