@@ -9,8 +9,15 @@ header {
   padding-bottom: 50px;
 }
 
-header p {
-  padding-top: 50px;
+#pagetop p {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+}
+
+p {
+  text-align: center;
+  padding-top: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
 }
@@ -44,8 +51,16 @@ h2 {
 
 div#aboutme {
   padding-top: 75px;
+  padding-bottom: 75px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.1em;
   background-color: aquamarine;
+}
+
+ul {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  padding-bottom: 50px;
 }
