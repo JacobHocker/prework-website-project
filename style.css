@@ -1,10 +1,16 @@
 body {
-    background: rgb(255, 254, 254);
+    background: url("pictures/houston.jpg");
+    background-size: cover;
+    background-attachment: fixed;
   } 
+
+div#content {
+  padding: 40px;
+  background: rgba(255,255,255,.50);
+}
 
 header {
   display: block;
-  background-color: rgb(162, 240, 240);
   text-align: center;
   padding-bottom: 50px;
 }
@@ -65,7 +71,6 @@ div#aboutme {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.1em;
-  background-color: aquamarine;
 }
 
 div#animals {
@@ -73,7 +78,6 @@ div#animals {
   padding-bottom: 75px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: blueviolet;
 }
 
 div#games {
@@ -81,7 +85,6 @@ div#games {
   padding-bottom: 75px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(226, 43, 67);
 }
 
 div#music {
@@ -89,7 +92,6 @@ div#music {
   padding-bottom: 75px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(43, 226, 119);
 }
 
 div#animals div#nala {
