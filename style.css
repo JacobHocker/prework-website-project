@@ -20,6 +20,8 @@ p {
   padding-top: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 
 nav a {
@@ -49,6 +51,13 @@ h2 {
   font-size: 2.0em;
   }
 
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 1.8em;
+  padding-bottom: 40px;
+}
+
 div#aboutme {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -74,6 +83,13 @@ div#animals div#nala {
 }
 
 div#animals div#penny {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  padding-bottom: 50px;
+}
+
+div#games div#listgames {
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
