@@ -58,9 +58,39 @@ div#aboutme {
   background-color: aquamarine;
 }
 
-ul {
+div#animals {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: blueviolet;
+}
+
+div#animals div#nala {
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 1.2em;
+  font-size: 1.5em;
   padding-bottom: 50px;
+}
+
+div#animals div#penny {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  padding-bottom: 50px;
+}
+
+#nalasleeping {
+  display: block;
+  width: 300px;
+  height: 400px;
+  padding-left: 35%;
+}
+
+#pennypuppy {
+  display: block;
+  width: 300px;
+  height: 300px;
+  padding-left: 35%;
+  padding-top: 50px;
 }
